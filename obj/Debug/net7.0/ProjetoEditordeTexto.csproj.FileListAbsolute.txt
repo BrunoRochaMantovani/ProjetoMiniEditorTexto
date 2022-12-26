@@ -1,0 +1,15 @@
+C:\dev\CursoBalta\ProjetoEditordeTexto\bin\Debug\net7.0\ProjetoEditordeTexto.exe
+C:\dev\CursoBalta\ProjetoEditordeTexto\bin\Debug\net7.0\ProjetoEditordeTexto.deps.json
+C:\dev\CursoBalta\ProjetoEditordeTexto\bin\Debug\net7.0\ProjetoEditordeTexto.runtimeconfig.json
+C:\dev\CursoBalta\ProjetoEditordeTexto\bin\Debug\net7.0\ProjetoEditordeTexto.dll
+C:\dev\CursoBalta\ProjetoEditordeTexto\bin\Debug\net7.0\ProjetoEditordeTexto.pdb
+C:\dev\CursoBalta\ProjetoEditordeTexto\obj\Debug\net7.0\ProjetoEditordeTexto.csproj.AssemblyReference.cache
+C:\dev\CursoBalta\ProjetoEditordeTexto\obj\Debug\net7.0\ProjetoEditordeTexto.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\CursoBalta\ProjetoEditordeTexto\obj\Debug\net7.0\ProjetoEditordeTexto.AssemblyInfoInputs.cache
+C:\dev\CursoBalta\ProjetoEditordeTexto\obj\Debug\net7.0\ProjetoEditordeTexto.AssemblyInfo.cs
+C:\dev\CursoBalta\ProjetoEditordeTexto\obj\Debug\net7.0\ProjetoEditordeTexto.csproj.CoreCompileInputs.cache
+C:\dev\CursoBalta\ProjetoEditordeTexto\obj\Debug\net7.0\ProjetoEditordeTexto.dll
+C:\dev\CursoBalta\ProjetoEditordeTexto\obj\Debug\net7.0\refint\ProjetoEditordeTexto.dll
+C:\dev\CursoBalta\ProjetoEditordeTexto\obj\Debug\net7.0\ProjetoEditordeTexto.pdb
+C:\dev\CursoBalta\ProjetoEditordeTexto\obj\Debug\net7.0\ProjetoEditordeTexto.genruntimeconfig.cache
+C:\dev\CursoBalta\ProjetoEditordeTexto\obj\Debug\net7.0\ref\ProjetoEditordeTexto.dll
